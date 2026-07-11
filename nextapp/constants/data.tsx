@@ -120,7 +120,7 @@ export const WORKDATA = [
     categories: [Category.Backend, Category.Frontend, Category.AWS],
     des: "Admin Dashboard + Shopping, MERN, API Gateway, AWS Lambda, S3, Cognito, and Cloudfront.",
     git: "https://github.com/thangtran3112/ecom/tree/main/fashionify",
-    link: "https://fashionify.thangtrandev.net",
+    link: "https://fashionify.tobytran.dev",
   },
   {
     title: "Multi-tenancy Marketplace",
