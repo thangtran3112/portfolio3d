@@ -161,7 +161,7 @@ export const WORKDATA = [
     categories: [Category.Frontend, Category.AWS],
     des: "Prototype Website for Gongcha. Gatsby, React, Contentful CMS and AWS Amplify",
     git: "https://github.com/thangtran3112/gongcha",
-    link: "https://gongcha.thangtrandev.net",
+    link: "https://gongcha.tobytran.dev",
   },
   {
     title: "Sushi Ichiban Calgary",
