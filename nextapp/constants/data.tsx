@@ -100,6 +100,7 @@ export const Category = {
   Backend: { id: "Backend", content: "Backend" },
   Frontend: { id: "Frontend", content: "Frontend" },
   AWS: { id: "AWS", content: "Amazon Web Services" },
+  GCP: { id: "GCP", content: "Google Cloud Platform" },
   AgenticAI: { id: "Agentic AI", content: "Agentic AI" },
   GenAI: { id: "GenAI", content: "Generative AI" },
 };
@@ -125,10 +126,10 @@ export const WORKDATA = [
   {
     title: "Multi-tenancy Marketplace",
     media: ["/marketplace/img1.png"],
-    categories: [Category.Backend, Category.Frontend, Category.AWS],
+    categories: [Category.Backend, Category.Frontend, Category.GCP],
     des: "NextJS, Payload CMS Backend with ExpressJS, TRPC, MongoDB, Tailwind CSS, and Shadcn UI.",
     git: "https://github.com/thangtran3112/next-marketplace",
-    link: "https://market.thangtrandev.net",
+    link: "https://market.tobytran.dev",
   },
   {
     title: "Word Embedding- Simple RNN Training",
@@ -180,11 +181,16 @@ export const WORKDATA = [
   },
 ];
 
-// TESTIMONIAL SECTION
 export const TESTIMONIAL = [
   {
+    title: "Archer Integrated Risk Management",
+    profession: "Principal Engineer, 05/2026 - Present",
+    URL: "/archer-logo.png",
+    desc: "Scaled a complex legal document ingestion pipeline processing millions of compliance files. Orchestrated distributed tasks using RabbitMQ and Elasticsearch to handle change detection, translation, vector embedding, and indexing.",
+  },
+  {
     title: "Stackline",
-    profession: "Software Engineer, 02/2025 - Present",
+    profession: "Senior Fullstack Engineer, 02/2025 - 05/2026",
     URL: "/stackline-logo.png",
     desc: "Working on data analytics platform for ecommerce market share, advertising, and analytics for brands and retailers. Building Agentic AI apps for product profile generation and intelligence advisors.",
   },
