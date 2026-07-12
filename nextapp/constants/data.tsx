@@ -152,7 +152,7 @@ export const WORKDATA = [
     categories: [Category.Backend, Category.Frontend, Category.AWS],
     des: "NextJs, Prisma, PostgresSQL, Tailwind CSS, AWS Lambda and Shadcn UI.",
     git: "https://github.com/thangtran3112/next-airbnb",
-    link: "https://airnext.thangtrandev.net",
+    link: "https://airnext.tobytran.dev",
   },
   {
     title: "Gongcha Kelowna Website",
