@@ -177,7 +177,7 @@ export const WORKDATA = [
     categories: [Category.Frontend, Category.AWS],
     des: "React SPA, Redux, PostgresSQL, AWS Cloudfront, and Supabase.",
     git: "https://github.com/thangtran3112",
-    link: "https://cabin.thangtrandev.net",
+    link: "https://cabin.tobytran.dev",
   },
 ];
 
